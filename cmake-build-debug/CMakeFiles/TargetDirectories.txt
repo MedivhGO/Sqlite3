@@ -1,0 +1,9 @@
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/install/strip.dir
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/install.dir
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/sqlite3.dir
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/install/local.dir
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/sqlite3-static.dir
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/shell.dir
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug/CMakeFiles/list_install_components.dir

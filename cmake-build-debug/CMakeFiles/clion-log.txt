@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/Administrator/Desktop/sqlite_bld
+Building on: Linux
+FOUND: SQLite version = 3.34.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug

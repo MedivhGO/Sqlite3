@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/shell.dir/src/shell.c.o  -o shell -Wl,-rpath,/mnt/c/Users/Administrator/Desktop/sqlite_bld/cmake-build-debug: libsqlite3.so -lpthread -ldl 
